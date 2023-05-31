@@ -1,0 +1,63 @@
+﻿^contentpage {
+    background-color: white;
+}
+
+.PageBackgroundColor {
+    background-color: black;
+}
+
+#header {
+    font-size: 32;
+    font-weight: bolder;
+    color: black;
+}
+
+
+#Button-1 {
+    background: linear-gradient(to right, #ff0000, #ff8800);
+    color: white;
+    font-size: 18;
+}
+
+#Button-2 {
+    color: black;
+    border-width: 3;
+    font-size: 18;
+}
+
+#Button-3 {
+    color: black;
+    border-width: 2;
+    font-size: 18;
+    border-color: hotpink;
+}
+
+
+#Button-4 {
+    color: hotpink;
+    font-size: 18;
+    border-width: 2;
+    border-color: hotpink;
+}
+
+
+
+label {
+    color: white;
+}
+
+.LabelTextColor {
+    color: black;
+}
+
+.EnrtyStyle {
+    font-size: 16;
+    background-color: white;
+}
+
+#styleforzad5 {
+    font-size: 16;
+    background-color: white;
+    color: black;
+}
+

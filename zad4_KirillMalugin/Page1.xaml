@@ -1,0 +1,13 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="zad4_KirillMalugin.Page1"
+             Title="Кредитный калькулятор">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <StyleSheet Source="mystyles1.css" />
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+
+</ContentPage>
